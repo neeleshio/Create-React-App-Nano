@@ -1,0 +1,27 @@
+div {
+    overflow: hidden;
+    margin: -10px;
+}
+
+.App {
+    text-align: center;
+    color: #61dafb;
+    background: #282c34;
+    height: 650px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.App p {
+    color: aliceblue;
+    font-size: 25px;
+}
+
+.App button {
+    height: 53px;
+    width: 165px;
+    background: #61dafb;
+    margin: 3px;
+    border: none;
+    font-size: 20px;
+}
