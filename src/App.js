@@ -6,6 +6,7 @@ class App extends Component {
     return (
       <div className='App'>
         <h1>React</h1>
+        <h1>Not react</h1>
         <p>A JavaScript library for building user interfaces</p>
         <button type='button' ><a href="https://reactjs.org/docs/getting-started.html">Get Started</a></button>
       </div>
