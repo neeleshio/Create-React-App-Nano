@@ -4,9 +4,9 @@
 
 ### Features
 
-Uses Parcel with zero-config instead of Webpack
-No eject, because it is already so minimal
-No linting
-No service worker
-npm start and npm run build scripts for dev server and production build
+* Uses Parcel with zero-config instead of Webpack
+* No eject, because it is already so minimal
+* No linting
+* No service worker
+* npm start and npm run build scripts for dev server and production build
 
